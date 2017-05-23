@@ -1,0 +1,90 @@
+.a {
+  background: #466368;
+  background: -webkit-linear-gradient(to left, #a1d3b0, #f6f1d3);
+  background: -moz-linear-gradient(to left, #a1d3b0, #f6f1d3);
+  background: linear-gradient(to left, #a1d3b0, #f6f1d3);
+  border-radius: 6px;
+  height: 100px;
+  
+}
+.ava {
+
+	width: 50px;
+	height: 50px;
+        margin-left: 150px;
+        margin-top: -30px;
+
+}
+
+form-inline form-search pull-right {
+margin-down: 50px;
+}
+
+.downsearch {
+
+margin-top: 30px;
+}
+.textotst {
+margin-left: 20px;
+color: #669966;
+}
+
+
+.hr {
+margin-top: 30px
+}
+
+.avaforquest {
+	width: 50px;
+	height: 50px;
+	margin-right:15px;
+	margin-left:15px;
+	margin-top:15px;
+	margin-bottom:15 px;
+}
+
+.avaforquest1 {
+	width: 90px;
+	height: 90px;
+	margin-right:15px;
+	margin-left:15px;
+	margin-top:15px;
+	margin-bottom:15 px;
+}
+.blackline {
+	width: 850px;
+	size:100px;
+	margin-bottom:20px;
+	margin-top: 20px;
+	background-color: #000000;
+}
+.likes {
+	margin-top:30px;
+	margin-bottom:15 px;
+}
+
+.gotoup {
+position: fixed;
+margin-left: 30px;
+background-color: green;
+color: green;
+}
+
+.backbody {
+background: #f4f7fc;
+}
+
+.paneldown {
+	margin-top: 20px;
+	margin-right:10px;
+}
+.answers {
+	margin-top:80px;
+}
+
+.avahead {
+	width: 50px;
+	height: 50px;
+	margin-left:0px;
+	margin-top: 30px;
+}
